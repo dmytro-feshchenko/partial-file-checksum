@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/technoboom/partial-file-checksum.svg?branch=master)](https://travis-ci.org/technoboom/partial-file-checksum)
 # Utility for creating hash sum of given file
 ## The purpose of this utility:
 When transferring files via Internet we need to take care about integrity of the files.
